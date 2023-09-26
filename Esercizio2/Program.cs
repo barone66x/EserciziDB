@@ -34,7 +34,7 @@ namespace Esercizio2
                     Console.WriteLine("1 per creare utente");
                     Console.WriteLine("2 per lista ordini");
                     Console.WriteLine("3 per dettaglio ordine");
-                    Console.WriteLine("4 per crare ordine");
+                    Console.WriteLine("4 per crare ordine (DA SISTEMARE)");
                     Console.WriteLine("5 per uscire ");
                     input = int.Parse(Console.ReadLine());
 
